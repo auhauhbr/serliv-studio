@@ -1,11 +1,13 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <img
-    src="assets/imagens/hero.jpg"
-    alt="Studio Serliv — tecnologia, design e experiências digitais"
-    width="240"
-  >
+  <a href="docs/screenshots/inicio-escuro-1.png">
+    <img
+      src="docs/screenshots/inicio-escuro-1.png"
+      alt="Página inicial do Studio Serliv no tema escuro"
+      width="100%"
+    >
+  </a>
 
   <h1>Studio Serliv</h1>
 
@@ -53,6 +55,25 @@ permitindo abrir o projeto diretamente pelo `index.html`.
 
 A direção visual utiliza tons neutros, verde-turquesa, grids organizados,
 componentes retos e dois temas persistentes: claro e escuro.
+
+## Origem e evolução do projeto
+
+O Studio Serliv nasceu como um aperfeiçoamento do projeto apresentado na
+**Sessão 59 — [LEGADO] Projeto final** do curso
+[Programação Web Front-end Fundamentos: HTML, CSS, Lógica de programação e JavaScript](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/?srsltid=AfmBOoqRS0z4tpcdAAn40ApzWFaf6Rr8R48U3sPzCfivM1sYf-LLPufS),
+com carga horária total de **132,5 horas**.
+
+O layout original foi utilizado como ponto de partida para praticar e consolidar
+os fundamentos estudados. A partir dele, o projeto foi reestruturado e ampliado
+para se aproximar de um produto comercial completo: ganhou identidade autoral,
+novas páginas, conteúdo contextualizado, responsividade, acessibilidade, temas
+claro e escuro e funcionalidades desenvolvidas exclusivamente com JavaScript
+puro.
+
+Esta versão não é apenas uma reprodução do exercício do curso. Ela representa
+uma evolução prática do aprendizado, preservando a referência histórica do
+projeto original enquanto demonstra decisões próprias de arquitetura,
+interface, experiência do usuário e organização de código.
 
 ## Principais recursos
 
