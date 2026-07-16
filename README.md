@@ -23,6 +23,12 @@
   </p>
 
   <p>
+    <a href="https://auhauhbr.github.io/serliv-studio/">
+      <img src="https://img.shields.io/badge/Abrir_projeto-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir projeto no GitHub Pages">
+    </a>
+  </p>
+
+  <p>
     <a href="https://jeffersontadeu.vercel.app">
       <img src="https://img.shields.io/badge/Portfólio-online-1CA88C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
     </a>
@@ -264,6 +270,17 @@ Depois acesse:
 ```text
 http://127.0.0.1:8000
 ```
+
+## Deploy
+
+O projeto é publicado automaticamente no GitHub Pages a cada atualização da
+branch `main`:
+
+**[auhauhbr.github.io/serliv-studio](https://auhauhbr.github.io/serliv-studio/)**
+
+Como todos os recursos usam caminhos relativos, a aplicação funciona dentro do
+subdiretório `/serliv-studio/`, inclusive nas páginas internas e no carregamento
+dos arquivos JSON locais.
 
 ## Acessibilidade
 
